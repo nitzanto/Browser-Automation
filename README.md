@@ -19,8 +19,6 @@
 
   <p align="center">
    Browser Automation sets up a Chrome driver service and options, opens the Selenium Easy Demo page, checks if the page title and page source contain expected text using assertions, finds an input element by ID, sends some text as input, clicks a button to send the message, waits for an output message to appear, prints the output message, and checks if it contains expected text using another assertion.
-
-Overall, the code is an example of how to use the Selenium library to automate testing of a web page.
     <br />
         <br />
       </p>
