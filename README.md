@@ -10,7 +10,9 @@
     The Browser Automation uses the Selenium library to automate testing of a web page.
     <br />
     <a href="https://selenium-python.readthedocs.io/index.html"><strong>Explore the Library »</strong></a>
-    <strong>Selenium version 4.8.3</strong>
+        <br />
+            <br />
+    <strong>Selenium version used is 4.8.3</strong>
     <br />
     <br />
     
