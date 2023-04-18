@@ -23,11 +23,9 @@
     <br />
         <br />
       </p>
-      
        <h2 align="center"><a>How to run it?</a></h2>
-
   <p align="center">
-   Simply use any shell Bash and run automation.py
+   Simply use any shell like Bash and run automation.py
     <br />
         <br />
       </p>
